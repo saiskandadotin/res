@@ -1,0 +1,3 @@
+[submodule "oh-my-cv"]
+	path = oh-my-cv
+	url = https://github.com/Renovamen/oh-my-cv.git
