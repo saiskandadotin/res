@@ -4,12 +4,17 @@ header:
   - text: |
       <span style="font-size: 1.2em; font-weight: bold;">Tech Product Analyst & Engineer</span>
   - text: <span class="iconify" data-icon="tabler:world"></span> saiskanda.in
-    link: https://5ht.in/sk?ref=resume_2026_09_27
+    link: https://5ht.in/sk?ref=resume_2026_11_25
+  - text: <span class="iconify" data-icon="tabler:home"></span> Bengaluru
 ---
 
 ## About
 
-Product-minded analyst & engineer with 6 years across data analytics and tech infrastructure. The last ~3 years spent operating as a one-person internal tech team within non-profits and owning internal applications end-to-end from ideation through development to production maintenance. Built and ran multi-tenant ETL, APIs and BI Infrastructure serving ~100 users at the least possible operating cost. Looking for a role where I can build on that foundation within a larger professional org.
+Product-minded analyst & engineer with 6+ years across data analytics and tech infrastructure. The last ~3 years spent operating as a one-person internal tech team within non-profits and owning internal applications end-to-end from ideation through development to production maintenance. Built and ran multi-tenant ETL, APIs and BI Infrastructure serving ~100 users at the least possible operating cost. Looking for a role where I can build on that foundation within a larger professional org.
+
+## Personal Projects & Internet Home Page
+
+Visit - [saiskanda.in](https://5ht.in/sk?ref=resume_2026_11_25)
 
 ## Experience
 
@@ -74,7 +79,12 @@ Product-minded analyst & engineer with 6 years across data analytics and tech in
 
 Bachelor of Technology in Electronics and Communication Engineering - 2019
 
+SRM Institute of Science and Technology - Chennai
+
 ## Skills
+
+**Large Language Model / Tooling Preferences:** - Xiaomi Mimo (Personal Projects), Claude/Gemini (Work Projects), Claude Code, Sprites by fly.io (Sandboxing and Prototyping)
+
 **Languages:** Python, Go
 
 **Data & Infra:** SQL, MongoDB, Docker, Kubernetes, Trino, Jenkins, Azure, GCP, AWS, KoboToolBox(ODK)
@@ -85,8 +95,10 @@ Bachelor of Technology in Electronics and Communication Engineering - 2019
 
 ## Ref
 
+Link shortner clarification - Some links I share will be from 5ht(dot)in - this is my personal link shortner service
+
 Resume as code inspiration - [Xe Iaso](https://github.com/Xe/site/tree/2685f5770ed97fe144ecc6d478fa66712047eb4f/dhall/resume)
 
 Created using - [OhMyCv!](https://github.com/Renovamen/oh-my-cv)
 
-AI use declaration - Phrasing and grammar tightened using Claude Sonnet 5, for original phrasing check [Here](https://5ht.in/res_raw_2026_09_27?ref=resume_2026_09_27)
+AI use declaration - Phrasing and grammar tightened using Claude Sonnet 5, for original phrasing check [Here](https://5ht.in/res_raw_2026_09_27?ref=resume_2026_09_27) - some content maybe added manually later - refer to git history
